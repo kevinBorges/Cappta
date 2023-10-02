@@ -14,3 +14,6 @@
 bin/
 obj/
 .vscode/
+/Cappta/ExplorandoMarte/obj/Debug/net7.0/ExplorandoMarte.assets.cache
+/Cappta/.vs/Cappta/v17/.suo
+/Cappta/ExplorandoMarte/obj/Debug/net7.0/ExplorandoMarte.csproj.FileListAbsolute.txt
