@@ -17,3 +17,5 @@ obj/
 /Cappta/ExplorandoMarte/obj/Debug/net7.0/ExplorandoMarte.assets.cache
 /Cappta/.vs/Cappta/v17/.suo
 /Cappta/ExplorandoMarte/obj/Debug/net7.0/ExplorandoMarte.csproj.FileListAbsolute.txt
+*.vsidx
+/Cappta/.vs/Cappta/FileContentIndex/c5d1a2ee-1df3-45d4-a6b3-caa2b34ae6f1.vsidx
