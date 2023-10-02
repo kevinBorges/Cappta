@@ -1,0 +1,14 @@
+C:\projetos\Cappta\Cappta\ExplorandoMarte\bin\Debug\net7.0\ExplorandoMarte.exe
+C:\projetos\Cappta\Cappta\ExplorandoMarte\bin\Debug\net7.0\ExplorandoMarte.deps.json
+C:\projetos\Cappta\Cappta\ExplorandoMarte\bin\Debug\net7.0\ExplorandoMarte.runtimeconfig.json
+C:\projetos\Cappta\Cappta\ExplorandoMarte\bin\Debug\net7.0\ExplorandoMarte.dll
+C:\projetos\Cappta\Cappta\ExplorandoMarte\bin\Debug\net7.0\ExplorandoMarte.pdb
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ExplorandoMarte.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ExplorandoMarte.AssemblyInfoInputs.cache
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ExplorandoMarte.AssemblyInfo.cs
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ExplorandoMarte.csproj.CoreCompileInputs.cache
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ExplorandoMarte.dll
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\refint\ExplorandoMarte.dll
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ExplorandoMarte.pdb
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ExplorandoMarte.genruntimeconfig.cache
+C:\projetos\Cappta\Cappta\ExplorandoMarte\obj\Debug\net7.0\ref\ExplorandoMarte.dll
