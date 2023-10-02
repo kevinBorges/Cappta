@@ -1,0 +1,16 @@
+# Arquivos de compilação C#
+*.obj
+*.bin
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.cache
+*.log
+*.vscode
+
+# Diretórios
+bin/
+obj/
+.vscode/
